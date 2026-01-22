@@ -160,6 +160,6 @@ This project is licensed under the MIT License - see the [Looks like the result 
 
 **Ashish Raj**
 
-📌 LinkedIn: [https://www.linkedin.com/in/YOUR-LINKEDIN-ID](https://www.linkedin.com/in/ashish-raj-ashishraj/)
+📌 LinkedIn: [LINKEDIN-ID](https://www.linkedin.com/in/ashish-raj-ashishraj/)
 
-📌 GitHub: [https://github.com/YOUR-GITHUB-USERNAME](https://github.com/ashishraj-hub)
+📌 GitHub: [GITHUB-ID](https://github.com/ashishraj-hub)
