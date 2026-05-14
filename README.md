@@ -153,7 +153,7 @@ Credit-Score-Model-ML/
 ---
 
 ## 📜 License
-This project is licensed under the MIT License - see the [Looks like the result wasn't safe to show. Let's switch things up and try something else!] file for details.
+This project is licensed under the MIT License - see the [License] file for details.
 
 ---
 
