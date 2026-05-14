@@ -133,12 +133,13 @@ joblib.dump(pipeline, "credit_scoring_pipeline.joblib")
 ---
 
 ## 📂 Repository Structure
+```
 Credit-Score-Model-ML/
 │── Credit Scoring Model.ipynb      # Main Jupyter Notebook
-│── data(cs-training.csv)                        # Dataset files
-│── README.md                                        # Project documentation
-│── LICENSE                      # License file
-
+│── data(cs-training.csv)           # Dataset files
+│── README.md                       # Project documentation
+│── LICENSE                         # License file
+```
 ---
 
 ## ⭐ Acknowledgements
@@ -163,3 +164,14 @@ This project is licensed under the MIT License - see the [Looks like the result 
 📌 LinkedIn: [LINKEDIN-ID](https://www.linkedin.com/in/ashish-raj-ashishraj/)
 
 📌 GitHub: [GITHUB-ID](https://github.com/ashishraj-hub)
+
+---
+
+## ⭐ Support This Project
+
+If this README or project helped you:
+- **Star** ⭐ this repository
+- **Fork** 🍴 it and build your own version
+- **Share** it with someone who is learning Data Science or AI/ML
+
+---
