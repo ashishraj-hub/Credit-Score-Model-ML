@@ -1,4 +1,4 @@
-# Credit Scoring Model using Machine Learning
+# 💳 Credit Scoring Model using Machine Learning
 
 ## 📌 Project Overview
 This project focuses on building a **Credit Scoring Model** to predict an individual's **creditworthiness** using historical financial data.  
